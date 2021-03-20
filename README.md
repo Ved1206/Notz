@@ -1,0 +1,1 @@
+A simple Notes website to keep your notes. Add your title and your note in sections and click on 'Add Note'. Your note will be added. Create multiple notes by using NOTZ.
